@@ -1,3 +1,18 @@
+## 🚀 Creds Ambassador  
+
+I'm thrilled to be part of the **Creds Ambassador Program**, advocating for verifiable digital credentials that empower professionals to showcase their expertise with trust and transparency.  
+
+🔹 **What is Creds?**  
+Creds is a platform that provides **tamper-proof** and **verifiable credentials** for professionals in various industries. With digital trust becoming a priority, it's essential to have credentials that truly reflect your skills and achievements.  
+
+🔹 **Why Creds?**  
+✅ Secure & Verifiable  
+✅ Helps professionals stand out  
+✅ Supports career growth & credibility  
+
+🌟 Check out **[Creds](https://creds.xyz)** and take charge of your professional future!  
+
+
 <p align="center">
   <a href="https://revealjs.com">
   <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text.svg" alt="reveal.js" width="450">
@@ -26,3 +41,5 @@ Want to create your presentation using a visual editor? Try the official reveal.
 MIT licensed
 
 Copyright (C) 2011-2020 Hakim El Hattab, https://hakim.se
+
+
